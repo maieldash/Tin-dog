@@ -1,3 +1,3 @@
 # Tin-dog
-[!screenshot](./images/TinDog1.png)
-[!screenshot](./images/TinDog2.png)
+![Screenshot](images/TinDog1.png)
+![Screenshot](images/TinDog2.png)
